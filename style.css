@@ -144,6 +144,11 @@ figcaption {
 		overflow-y: auto;
 		overflow-x: hidden;
 	}
+
+	h1 {
+		font-size: 16px;
+	} 
+
 	.century {
 		display: none;
 	}
@@ -194,7 +199,7 @@ figcaption {
 	}
 
 	.text {
-		height: 45vh;
+		height: 46vh;
 		margin-right: -3vw;
 	}
 
@@ -207,7 +212,7 @@ figcaption {
 	}
 
 	.seven {
-		height: 78vh;
+		height: 80vh;
 	}
 
 	.eight {
