@@ -59,11 +59,11 @@ li {
 }
 
 h2 {
-	font-size: 30vh;
+	font-size: 28vh;
 	opacity: 0.5;
 	border-right: 2vh solid black;
-	margin-top: 1vh;
-	margin-bottom: 2vh;
+	margin-top: 3vh;
+	margin-bottom: 4vh;
 }
 
 h2:hover {
@@ -116,32 +116,35 @@ summary::-webkit-details-marker {
 
 .ci img {
 	mix-blend-mode: multiply;
-	height: 95%;
+	height: 93%;
 	opacity: 0.5;
 	filter: grayscale(1);
 	padding-right: 3vh;
 	padding-left: 3vh;
+	background-color: red;
 }
 
 .image img {
-	height: 95%;
+	height: 93%;
 	padding-right: 3vh;
 	padding-left: 3vh;
 }
 
 figure {
 	display: flex;
-	margin-top: 1vh;
-	margin-bottom: 2vh;
+	margin-top: 3vh;
+	margin-bottom: 4vh;
 	border-right: 2vh solid rgba(0, 0, 0, 0.2);
 }
 
 figcaption {
+	position: relative;
+	bottom: 0;
 	writing-mode: horizontal-tb;
 	text-align: center;
 	font-size: 3vh;
 	opacity: 0.5;
-	margin-top: 1vh;
+	margin-top: 3vh;
 }
 
 .album {
