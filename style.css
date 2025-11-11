@@ -118,7 +118,7 @@ summary::-webkit-details-marker {
 	mix-blend-mode: multiply;
 	height: 95%;
 	opacity: 0.5;
-/*	filter: grayscale(1);*/
+	filter: grayscale(1);
 	padding-right: 3vh;
 	padding-left: 3vh;
 }
