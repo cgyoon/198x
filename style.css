@@ -360,11 +360,10 @@ iframe {
 
 @media screen and (min-aspect-ratio: 3.3/1) {
 
-	ol {
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
+	.box {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
-
 }
