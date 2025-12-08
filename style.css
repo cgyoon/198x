@@ -217,6 +217,10 @@ iframe {
 	overflow-y: hidden;
 }
 
+.multiply {
+	mix-blend-mode: multiply;
+}
+
 @media screen and (max-width: 900px) {
 
 	.timeline {
